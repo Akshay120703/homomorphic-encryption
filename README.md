@@ -28,6 +28,9 @@ A demonstration of Fully Homomorphic Encryption (FHE) concepts through a dual-se
    ```bash
    npm install
    ```
+  ```bash
+   npm install --save-dev cross-env
+  ```
 
 3. **Set up environment variables**
    Create a `.env` file in the root directory with the following content:
